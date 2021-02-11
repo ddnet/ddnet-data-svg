@@ -8,4 +8,9 @@ CC-BY license
 x_ninja:
 Recreation by mind
 
+bluekitty, bluestripe, brownbear, cammo, cammostripe,
+coala, default, limekitty, pinky, redbopp, redstripe,
+saddo, toptri, twinbop, twintri, warpaint:
+Recreation by Ravie
+
 all other skin files are licensed under CC-BY-SA 3.0
