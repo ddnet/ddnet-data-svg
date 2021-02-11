@@ -1,0 +1,5 @@
+SVGs in this directory inherit the license of the original creator, if not specified otherwise, thus see https://github.com/ddnet/ddnet/blob/master/data/skins/license.txt for the original license
+
+greyfox:
+CC-BY license
+
