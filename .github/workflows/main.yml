@@ -1,0 +1,13 @@
+name: Check metadata
+
+on: [push]
+
+jobs:
+  ubuntu:
+    name: Build & Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Check svg
+        run: ./scripts/check_svg_meta.sh
