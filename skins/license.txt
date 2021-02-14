@@ -5,12 +5,9 @@ Copyright Whis
 Recreation by mind
 CC-BY license
 
-x_ninja:
-Recreation by mind
-
 bluekitty, bluestripe, brownbear, cammo, cammostripe,
 coala, default, limekitty, pinky, redbopp, redstripe,
-saddo, toptri, twinbop, twintri, warpaint:
+saddo, toptri, twinbop, twintri, warpaint, x_ninja:
 Recreation by Ravie
 
 all other skin files are licensed under CC-BY-SA 3.0
