@@ -11,4 +11,7 @@ coala, default, limekitty, pinky, redbopp, redstripe,
 saddo, toptri, twinbop, twintri, warpaint, x_ninja:
 Recreation by Ravie
 
+x_spec:
+By Ravie
+
 all other skin files are licensed under CC-BY-SA 3.0
