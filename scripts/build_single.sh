@@ -57,4 +57,11 @@ target_w=$(($exp_w * $target_ratio))
 target_h=$(($exp_h * $target_ratio))
 
 echo "exporting '${source_file}' to '${target_file}' at ${target_w}x${target_h}"
-inkscape $source_file -C -w $target_w -h $target_h -o $target_file > /dev/null 2>&1
+
+ink_version=$(inkscape --version | grep -Eo "[0-9.]*" | head -1 | grep -Eo "[0-9]*" | head -1)
+ink_export_flag=-o
+if [[ $ink_version -lt 1 ]]; then
+	ink_export_flag=-e
+fi
+
+inkscape $source_file -C -w $target_w -h $target_h $ink_export_flag $target_file > /dev/null 2>&1

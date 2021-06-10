@@ -1,0 +1,38 @@
+name: Build
+
+on: [push]
+
+jobs:
+  ubuntu:
+    name: Build SVGs to PNGs
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        submodules: true
+
+    - name: Prepare
+      run: |
+        sudo apt-get update -y
+        sudo apt-get install inkscape zip -y
+
+    - name: Build UHD
+      run: |
+        mkdir -p build/UHD
+        cd build/UHD
+        ../../scripts/build.sh 3840 2160 ../..
+
+    - name: Package
+      run: |
+        cd build
+        mkdir artifacts
+        mv UHD artifacts
+
+    - name: Upload Artifacts
+      uses: actions/upload-artifact@v1
+      with:
+        name: ddnet-uhd
+        path: build/artifacts
