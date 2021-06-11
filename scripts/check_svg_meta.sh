@@ -37,13 +37,12 @@ do
     done < <(grep -nE 'export-filename="([A-Z]:\\|/)' "$file")
 
     # check if there is width and height parameter
-    width_found=$(echo "$(grep -Eiwzo "<svg[^>]*>" $file | tr '\0' '\n')" | grep -Eo "width=\"([0-9.]|px)*\"")
-    height_found=$(echo "$(grep -Eiwzo "<svg[^>]*>" $file | tr '\0' '\n')" | grep -Eo "height=\"([0-9.]|px)*\"")
+    width_found=$(grep -Eiwzo "<svg[^>]*>" "$file" | tr '\0' '\n' | grep -Eo "width=\"([0-9.]|px)*\"")
+    height_found=$(grep -Eiwzo "<svg[^>]*>" "$file" | tr '\0' '\n' | grep -Eo "height=\"([0-9.]|px)*\"")
 
-    if [[ "$width_found" == "" || "$width_found" == "" ]]; then
-	    printf "[-] ERROR: no width or height parameter found in %s:%d\\n" \
-            "$file" \
-            "$(echo "$line" | cut -d':' -f1)"
+    if [[ "$width_found" == "" || "$height_found" == "" ]]
+    then
+        printf "[-] ERROR: no width or height parameter found in %s\\n" "$file"
         err="$((err+1))"
     fi
 done < <(find . -type f -name "*.svg")
