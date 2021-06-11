@@ -1,0 +1,23 @@
+name: Shellcheck
+
+on: [push]
+
+jobs:
+  ubuntu:
+    name: Lint all shell scripts
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        submodules: true
+
+    - name: Prepare
+      run: |
+        sudo apt-get update -y
+        sudo apt-get install shellcheck -y
+
+    - name: Shellcheck
+      run: find . -type f -name '*.sh' -print0 | xargs -0 shellcheck
