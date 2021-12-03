@@ -1,2 +1,5 @@
 grass_doodads_0.7:
 Recreation by ChillerDragon
+jungle_doodads:
+Recreation by ChillerDragon
+
