@@ -51,3 +51,7 @@ while IFS= read -r -d '' svg; do
 	"$cur_dir"/"$bash_script_dir"/build_single.sh "$res_width" "$res_height" "${svg}" "${cur_dir}/$(dirname "$svg")/$(basename -s .svg "$svg").png" &
 done < <(find . -name '*.svg' -type f -print0)
 
+wait
+
+echo "done"
+
