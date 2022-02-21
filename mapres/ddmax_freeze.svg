@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg38936"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   sodipodi:docname="ddmax_freeze.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs38940" />
+  <sodipodi:namedview
+     id="namedview38938"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="1.2056723"
+     inkscape:cx="-160.49137"
+     inkscape:cy="62.205957"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer6"
+     inkscape:snap-grids="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid39008"
+       color="#afafaf"
+       opacity="0.1254902"
+       empcolor="#ffffff"
+       empopacity="0.25098039"
+       spacingx="64"
+       spacingy="64" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="vector"
+     style="opacity:1">
+    <path
+       id="rect39033"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 64,0 h 64 V 64 H 64 Z" />
+    <path
+       id="path39057"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 320,96 a 32,32 0 0 1 -32,32 32,32 0 0 1 -32,-32 32,32 0 0 1 32,-32 32,32 0 0 1 32,32 z" />
+    <path
+       id="path39339"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 256 0 L 256 32 A 32 32 0 0 1 288 0 L 256 0 z M 288 0 A 32 32 0 0 1 320 32 L 320 0 L 288 0 z M 320 32 A 32 32 0 0 1 288 64 L 320 64 L 320 32 z M 288 64 A 32 32 0 0 1 256 32 L 256 64 L 288 64 z " />
+    <path
+       id="path39443"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 192,0 V 32 C 192,14.326888 206.32689,0 224,0 Z m 32,0 c 17.67311,0 32,14.326888 32,32 V 0 Z"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       id="path39816"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 128,0 V 32 C 128,14.326888 142.32689,0 160,0 Z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path39955"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 32 64 C 14.32689 64 0 78.326888 0 96 L 0 128 L 64 128 L 64 64 L 32 64 z " />
+    <path
+       id="path39957"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 96 64 C 78.32689 64 64 78.326888 64 96 L 64 128 L 128 128 L 128 96 C 128 78.326888 113.67311 64 96 64 z " />
+    <path
+       id="path39959"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 160 64 C 142.32689 64 128 78.326888 128 96 L 128 128 L 160 128 C 177.67311 128 192 113.67311 192 96 L 192 64 L 160 64 z " />
+    <path
+       id="path39961"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 224 64 C 206.32689 64 192 78.326888 192 96 L 192 128 L 224 128 C 241.67311 128 256 113.67311 256 96 C 256 78.326888 241.67311 64 224 64 z " />
+  </g>
+</svg>
