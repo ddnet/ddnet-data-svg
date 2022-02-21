@@ -44,9 +44,10 @@ res_height=$2
 source_file=$3
 target_file=$4
 
-export LC_NUMERIC="en_US.UTF-8"
-source_w=$(printf "%.0f\n" "$(grep -Eiwzo "<svg[^>]*>" "$source_file" | tr '\0' '\n' | grep -Eo "width=\"([0-9.]|px)*\"" | grep -Eo "[0-9.]*")")
-source_h=$(printf "%.0f\n" "$(grep -Eiwzo "<svg[^>]*>" "$source_file" | tr '\0' '\n' | grep -Eo "height=\"([0-9.]|px)*\"" | grep -Eo "[0-9.]*")")
+source_w_text=$(grep -Eiwzo "<svg[^>]*>" "$source_file" | tr '\0' '\n' | grep -Eo "width=\"([0-9.]|px)*\"" | grep -Eo "[0-9.]*")
+source_h_text=$(grep -Eiwzo "<svg[^>]*>" "$source_file" | tr '\0' '\n' | grep -Eo "height=\"([0-9.]|px)*\"" | grep -Eo "[0-9.]*")
+source_w=$(LC_ALL=C printf "%.0f\n" "$source_w_text")
+source_h=$(LC_ALL=C printf "%.0f\n" "$source_h_text")
 
 # expected size if the game runs at full HD
 exp_w=$source_w
