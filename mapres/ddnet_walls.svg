@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg37405"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   sodipodi:docname="ddnet_walls.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs37409" />
+  <sodipodi:namedview
+     id="namedview37407"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="0.60283615"
+     inkscape:cx="342.54747"
+     inkscape:cy="286.97682"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid37477"
+       spacingy="64"
+       spacingx="64"
+       empcolor="#ffffff"
+       empopacity="0.25098039"
+       color="#ababff"
+       opacity="0.1254902" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="vector"
+     style="opacity:1">
+    <path
+       id="rect37630"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 64,64 h 64 v 64 H 64 Z" />
+    <path
+       id="rect37502"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 128,256 h 64 v 64 h -64 z" />
+    <path
+       id="rect37628"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 71.624283,71.624283 H 120.37571 V 120.37571 H 71.624283 Z" />
+    <path
+       id="path37788"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill;fill:#ffffff;fill-opacity:1"
+       d="m 0,64 h 64 v 64 H 0 Z" />
+    <path
+       id="path37907"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 128,64 h 64 v 64 h -64 z" />
+    <path
+       id="path37909"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 135.62428,71.624282 h 48.75143 V 128 h -48.75143 z" />
+    <path
+       id="path37911"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 192,63.999997 h 64 V 128 h -64 z" />
+    <path
+       id="path37913"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 199.62428,71.62428 H 256 V 128 h -56.37572 z" />
+    <path
+       id="path37915"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 256,63.999997 h 64 V 128 h -64 z" />
+    <path
+       id="path37917"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 256,71.62428 h 64 v 48.75143 h -64 z" />
+    <path
+       id="path37919"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 320,63.999997 h 64 V 128 h -64 z" />
+    <path
+       id="path37921"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 320,71.62428 h 64 V 128 h -64 z" />
+    <path
+       id="path37923"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 320,192 v 64 h -64 v -64 z" />
+    <path
+       id="path37925"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 320,199.62428 v 48.75145 h -56.37573 v -48.75145 z" />
+    <path
+       id="path37927"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 192,256 v -64 h 64 v 64 z" />
+    <path
+       id="path37929"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 199.62428,256 v -64 h 48.75143 v 64 z" />
+    <path
+       id="path37931"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 320,256 v -64 h 64 v 64 z" />
+    <path
+       id="path37933"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 327.62428,256 V 192 H 384 v 64 z" />
+    <path
+       id="path38182"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 0,128 h 64 v 64 H 0 Z" />
+    <path
+       id="path38186"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 7.625 127.99805 L 7.625 135.62305 L 0 135.62305 L 0 184.37305 L 7.625 184.37305 L 7.625 184.375 L 7.625 192 L 56.375 192 L 56.375 184.375 L 56.376953 184.375 L 56.376953 184.37305 L 64 184.37305 L 64 135.62305 L 56.376953 135.62305 L 56.375 135.62305 L 56.375 127.99805 L 7.625 127.99805 z " />
+    <path
+       id="path38279"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 64,128 h 64 v 64 H 64 Z" />
+    <path
+       id="path38281"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 71.625 127.99805 L 71.625 135.62305 L 64 135.62305 L 64 184.37305 L 71.625 184.37305 L 71.625 184.375 L 71.625 192 L 120.375 192 L 128 192 L 128 135.62305 L 120.37695 135.62305 L 120.375 135.62305 L 120.375 127.99805 L 71.625 127.99805 z " />
+    <path
+       id="path38291"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 127.99928,128.00143 h 64 v 64 h -64 z" />
+    <path
+       id="path38293"
+       style="fill:#ffffff;stroke-width:2.69999;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 135.625 128 L 135.625 135.625 L 128 135.625 L 128 184.375 L 135.625 184.375 L 135.625 184.37695 L 128 184.37695 L 128 192.00195 L 192 192.00195 L 192 184.37695 L 184.375 184.37695 L 184.375 184.375 L 192 184.375 L 192 135.625 L 184.375 135.625 L 184.375 128 L 135.625 128 z " />
+    <path
+       id="path38303"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 191.99928,128.00143 h 64 v 64 h -64 z" />
+    <path
+       id="path38305"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 199.625 128 L 199.625 135.625 L 192 135.625 L 192 192 L 199.625 192 L 199.625 192.00195 L 248.375 192.00195 L 248.375 192 L 256 192 L 256 135.625 L 256 128 L 199.625 128 z " />
+    <path
+       id="path38315"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 255.99928,128.00143 h 64 v 64 h -64 z" />
+    <path
+       id="path38317"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 263.625 128 L 263.625 135.625 L 256 135.625 L 256 192 L 263.625 192 L 263.625 192.00195 L 312.375 192.00195 L 312.375 184.37695 L 312.375 184.375 L 320 184.375 L 320 128 L 312.375 128 L 263.625 128 z " />
+    <path
+       id="path38327"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 319.99856,128.00286 h 64 v 64 h -64 z" />
+    <path
+       id="path38329"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 376.37305 128 L 376.37305 128.00195 L 327.62305 128.00195 L 327.62305 135.62695 L 319.99805 135.62695 L 319.99805 184.37695 L 327.62305 184.37695 L 327.62305 192.00195 L 376.37305 192.00195 L 376.37305 192 L 383.99805 192 L 383.99805 128 L 376.37305 128 z " />
+    <path
+       id="path38345"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 0,192 h 64 v 64 H 0 Z" />
+    <path
+       id="path38347"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 7.625 199.62305 L 7.625 248.375 L 7.625 256 L 56.375 256 L 56.375 248.375 L 56.376953 248.375 L 56.376953 248.37305 L 64 248.37305 L 64 199.62305 L 56.376953 199.62305 L 56.375 199.62305 L 7.625 199.62305 z " />
+    <path
+       id="path38357"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 64,192 h 64 v 64 H 64 Z" />
+    <path
+       id="path38359"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 64 199.62305 L 64 248.37305 L 71.625 248.37305 L 71.625 248.375 L 71.625 256 L 120.375 256 L 120.375 248.375 L 120.37695 248.375 L 120.37695 248.37305 L 128 248.37305 L 128 199.62305 L 120.37695 199.62305 L 71.625 199.62305 L 64 199.62305 z " />
+    <path
+       id="path38369"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 128,192 h 64 v 64 h -64 z" />
+    <path
+       id="path38371"
+       style="fill:#ffffff;stroke-width:2.70001;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 128 199.62305 L 128 248.37305 L 135.625 248.37305 L 135.625 248.375 L 135.625 256 L 192 256 L 192 248.375 L 184.37695 248.375 L 184.37695 248.37305 L 192 248.37305 L 192 199.62305 L 184.37695 199.62305 L 184.375 199.62305 L 135.625 199.62305 L 128 199.62305 z " />
+    <path
+       id="path38381"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 64,256.00143 h 64 v 64 H 64 Z" />
+    <path
+       id="path38383"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 64 256 L 64 312.375 L 71.625 312.375 L 71.625 312.37695 L 71.625 320.00195 L 120.375 320.00195 L 120.375 312.37695 L 120.37695 312.37695 L 120.37695 263.625 L 120.375 263.625 L 120.375 256 L 71.625 256 L 64 256 z " />
+    <path
+       id="path38393"
+       style="stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="m 0,256.00143 h 64 v 64 H 0 Z" />
+    <path
+       id="path38395"
+       style="fill:#ffffff;stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20.8539;paint-order:stroke markers fill"
+       d="M 7.625 256 L 7.625 263.625 L 7.625 312.37695 L 7.625 320.00195 L 56.375 320.00195 L 56.375 312.37695 L 56.376953 312.37695 L 56.376953 312.375 L 64 312.375 L 64 263.625 L 56.376953 263.625 L 56.375 263.625 L 56.375 256 L 7.625 256 z " />
+  </g>
+</svg>
