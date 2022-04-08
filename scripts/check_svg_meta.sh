@@ -45,6 +45,11 @@ do
 		printf "[-] ERROR: no width or height parameter found in %s\\n" "$file"
 		err="$((err+1))"
 	fi
+	if grep -qF 'xlink:href="data:image/png;base64,' "$file"
+	then
+		printf "[-] ERROR: embedded image found %s\\n" "$file"
+		err="$((err+1))"
+	fi
 done < <(find . -type f -name "*.svg")
 
 if [ "$err" -ne "0" ]
