@@ -1,4 +1,4 @@
-bg_cloud3, grass_doodads_0.7, grass_main, jungle_doodads:
+bg_cloud2, bg_cloud3, grass_doodads_0.7, grass_main, jungle_doodads:
 	Recreation by ChillerDragon
 
 basic_freeze, ddmax_freeze, ddnet_walls, desert_background, desert_mountains, 
