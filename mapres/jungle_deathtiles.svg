@@ -7,9 +7,9 @@
    width="1024"
    height="1024"
    viewBox="0 0 1024 1024"
-   sodipodi:docname="jungle_deathtiles_newhero_fixed.svg"
+   sodipodi:docname="jungle_deathtiles.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   inkscape:export-filename="../../.local/share/ddnet/mapres/jungle_deathtiles_newhero_fixed.png"
+   inkscape:export-filename="../../../.local/share/ddnet/mapres/jungle_deathtiles_newhero.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -34,8 +34,8 @@
      inkscape:deskcolor="#505050"
      showgrid="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="376.18081"
-     inkscape:cy="788.77761"
+     inkscape:cx="866.20578"
+     inkscape:cy="389.26227"
      inkscape:window-width="1906"
      inkscape:window-height="1066"
      inkscape:window-x="0"
@@ -13137,7 +13137,7 @@
          transform="matrix(1,0,0,0.95361157,71.250214,-233.80401)"
          style="display:inline">
         <path
-           style="display:inline;fill:#729fcf;fill-opacity:1;stroke-width:2.265"
+           style="display:inline;fill:#3465a4;fill-opacity:1;stroke-width:2.265"
            d="m 28.466231,318.83635 c -1.429096,-0.8351 -2.96309,2.64921 -3.800027,4.53864 -0.965328,2.1793 -2.595715,5.11972 -3.370613,7.03015 -1.619345,3.99232 -0.959306,7.52711 -1.699214,11.11778 -0.739908,3.59067 -4.129565,9.61491 -4.354996,11.19155 -0.225431,1.57665 1.178712,2.80267 3.351986,2.7644 2.173225,-0.0383 6.485078,-2.23838 8.310097,-7.86066 1.825019,-5.62228 1.733855,-7.69432 0.940187,-10.23255 -0.793668,-2.53823 -1.704366,-3.15749 -2.201925,-4.80655 -0.497549,-1.64905 -1.050326,-1.95912 -0.594277,-3.90312 0.20537,-0.87542 0.332628,-1.61719 0.924186,-2.95372 0.722088,-1.63142 3.450795,-6.32716 2.494596,-6.88592 z"
            id="path49095-38"
            sodipodi:nodetypes="ssszzzzzzsss" />
