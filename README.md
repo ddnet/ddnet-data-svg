@@ -14,6 +14,10 @@ The SVG should contain a width and height(in inkscape the page width/height) in 
 This is required to properly scale up the generated images.
 Also the SVG should not contain the export path(e.g. in inkscape the export path for exporting PNGs).
 
+
+To avoid multiple contributors working on the same graphics please create an issue with the graphic name in the title
+as soon as you start working on something.
+
 How to build?
 -------------
 
