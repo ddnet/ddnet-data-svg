@@ -1,9 +1,6 @@
 #!/bin/bash
 
 error_code=0
-source_dir=.
-res_width=1920
-res_height=1080
 
 if ! command -v inkscape &> /dev/null
 then
@@ -41,17 +38,25 @@ source_dir=$3
 bash_script_dir=$(dirname "$0")
 cur_dir=$PWD
 
+num_cores() {
+	if [ -x "$(command -v nproc)" ]
+	then
+		nproc
+	elif [ -x "$(command -v sysctl)" ]
+	then
+		sysctl -n hw.logicalcpu
+	else
+		echo 1
+	fi
+}
+
 cd "$source_dir" || { echo "Error: invalid directory '$source_dir'"; exit 1; }
 
 while IFS= read -r -d '' svg; do
-	mkdir -p "${cur_dir}/$(dirname "$svg")"
+	mkdir -p "$cur_dir/$(dirname "$svg")"
 done < <(find . -name '*.svg' -type f -print0)
 
-while IFS= read -r -d '' svg; do
-	"$cur_dir"/"$bash_script_dir"/build_single.sh "$res_width" "$res_height" "${svg}" "${cur_dir}/$(dirname "$svg")/$(basename -s .svg "$svg").png" &
-done < <(find . -name '*.svg' -type f -print0)
-
-wait
-
+find . -name "*.svg" -type f -print0 | \
+sed -z "p;s#\(.*\)\.svg#$cur_dir/\1\.png#" | \
+xargs -0 -n 2 -P "$(num_cores)" "$cur_dir/$bash_script_dir/build_single.sh" "$res_width" "$res_height"
 echo "done"
-
