@@ -1,10 +1,6 @@
 #!/bin/bash
 
 error_code=0
-source_file=.
-target_file=.
-res_width=1920
-res_height=1080
 
 if ! command -v inkscape &> /dev/null
 then
@@ -66,4 +62,3 @@ if [[ $ink_version -lt 1 ]]; then
 fi
 
 inkscape "$source_file" -C -w "$target_w" -h "$target_h" "$ink_export_flag" "$target_file" > /dev/null 2>&1
-
