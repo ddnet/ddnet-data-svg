@@ -5,3 +5,6 @@ basic_freeze, ddmax_freeze, ddnet_walls, desert_background, desert_mountains,
 desert_mountains2, desert_mountains_new_background, desert_mountains_new_foreground, 
 moon, round_tiles, sun, winter_mountains, winter_mountains2, winter_mountains3:
 	Recreation by Voxel
+
+jungle_deathtiles
+	Recreation by New Hero
