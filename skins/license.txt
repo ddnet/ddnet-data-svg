@@ -1,7 +1,7 @@
 SVGs in this directory inherit the license of the original creator, if not specified otherwise, thus see https://github.com/ddnet/ddnet/blob/master/data/skins/license.txt for the original license
 
-dino, ghost, greensward, greyfox, jeet, kintaro_2, mermydon, mermydon-coala,
-nanami, random, whis:
+dino, ghost, giraffe, greensward, greyfox, jeet, kintaro_2, mermydon, mermydon-coala,
+nanami, random, voodoo_tee, whis:
 Copyright Whis
 Recreation by mind
 CC-BY license
