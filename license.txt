@@ -1,3 +1,8 @@
 All content in this repository, except the assets & skin files(which have their own licenses), are licensed under the original license CC-BY-SA 3.0, if not specified otherwise, thus see https://github.com/ddnet/ddnet/blob/master/license.txt or https://github.com/teeworlds/teeworlds/blob/master/license.txt for the original license.
 
 Information about the authors of the recreated content can be found in the individual license files in each directory.
+
+---
+
+emoticons
+ 	Recreation by Voxel
