@@ -9,5 +9,5 @@ moon, round_tiles, sun, winter_mountains, winter_mountains2, winter_mountains3:
 jungle_deathtiles
 	Recreation by New Hero
 
-generic_deathtiles
+generic_deathtiles, generic_lamps
 	Recreation by mind
