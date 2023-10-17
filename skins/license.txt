@@ -11,6 +11,9 @@ coala, default, limekitty, pinky, redbopp, redstripe,
 saddo, toptri, twinbop, twintri, warpaint, x_ninja:
 Recreation by Ravie
 
+beast, blacktee:
+Recreation by +KZ
+
 x_spec:
 By Ravie
 
