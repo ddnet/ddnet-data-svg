@@ -1,10 +1,13 @@
-bg_cloud1, bg_cloud2, bg_cloud3, generic_unhookable_0.7, grass_doodads_0.7, grass_main, jungle_doodads:
+bg_cloud1, bg_cloud2, bg_cloud3, grass_doodads_0.7, grass_main, jungle_doodads:
 	Recreation by ChillerDragon
 
 basic_freeze, ddmax_freeze, ddnet_walls, desert_background, desert_mountains, 
 desert_mountains2, desert_mountains_new_background, desert_mountains_new_foreground, 
 moon, round_tiles, sun, winter_mountains, winter_mountains2, winter_mountains3:
 	Recreation by Voxel
+
+generic_unhookable_0.7,
+	Recreation by ChillerDragon and Voxel
 
 jungle_deathtiles
 	Recreation by New Hero
