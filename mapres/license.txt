@@ -9,7 +9,7 @@ moon, round_tiles, sun, winter_mountains, winter_mountains2, winter_mountains3:
 generic_unhookable_0.7,
 	Recreation by ChillerDragon and Voxel
 
-jungle_deathtiles
+jungle_deathtiles, desert_main
 	Recreation by New Hero
 
 generic_deathtiles, generic_lamps
