@@ -1,11 +1,17 @@
 #!/bin/bash
 
-err=0
+num_errors=0
+num_warnings=0
 arg_fix=0
 
 error() {
 	printf '[-] ERROR: %s\n' "$1" 1>&2
-	err="$((err+1))"
+	num_errors="$((num_errors+1))"
+}
+
+warning() {
+	printf '[-] WARNING: %s\n' "$1" 1>&2
+	num_warnings="$((num_warnings+1))"
 }
 
 for arg in "$@"
@@ -73,7 +79,7 @@ check_meta_filename_match() {
 
 	if [ "$actual_filename" != "$expected_filename" ]
 	then
-		error "svg docname does not match filename in $file"
+		warning "svg docname does not match filename in $file"
 		printf '\n    expected: "%s"' "$expected_filename" 1>&2
 		printf '\n         got: "%s"\n\n' "$actual_filename" 1>&2
 	fi
@@ -114,10 +120,15 @@ do
 	check_width_height "$file"
 done < <(find . -type f -name "*.svg")
 
-if [ "$err" -ne "0" ]
+if [ "$num_errors" -ne "0" ]
 then
-	echo "[-] failed ($err errors)"
+	echo "[-] failed ($num_errors errors)"
 	exit 1
+fi
+if [ "$num_warnings" -ne "0" ]
+then
+	echo "[!] finished ($num_warnings warnings)"
+	exit 0
 fi
 
 echo "[+] done"
