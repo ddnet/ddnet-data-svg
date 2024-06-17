@@ -6,3 +6,6 @@ Information about the authors of the recreated content can be found in the indiv
 
 emoticons
  	Recreation by Voxel
+
+console
+	Recreation by +KZ
