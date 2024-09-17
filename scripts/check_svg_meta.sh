@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash --posix
 
 num_errors=0
 num_warnings=0
