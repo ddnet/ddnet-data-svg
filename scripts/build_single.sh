@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash --posix
 
 error_code=0
 
