@@ -1,4 +1,4 @@
-bg_cloud1, bg_cloud2, bg_cloud3, grass_doodads_0.7, grass_main, jungle_doodads:
+bg_cloud1, bg_cloud2, bg_cloud3, jungle_doodads:
 	Recreation by ChillerDragon
 
 basic_freeze, ddmax_freeze, ddnet_walls, desert_background, desert_mountains, 
@@ -14,3 +14,9 @@ jungle_deathtiles, desert_main
 
 generic_deathtiles, generic_lamps
 	Recreation by mind
+
+grass_main, grass_doodads_0.7:
+	Made by Zatline (Edited by +KZ)
+
+grass_doodads:
+	Made by Zatline, some tiles remade by +KZ
