@@ -4,8 +4,11 @@ Information about the authors of the recreated content can be found in the indiv
 
 ---
 
-emoticons
+emoticons:
  	Recreation by Voxel
 
-console
+console:
 	Recreation by +KZ
+
+game:
+	Recreation by mind, Voxel, Cellegen & +KZ
